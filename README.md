@@ -2,4 +2,4 @@
 
 - 🔭 Em busca da minha primeira oportunidade como Dev.
 - 🌱 Cursando ADS.
-- 😄 Pronouns: ele/dele
+- 😄 Pronome: ele/dele
