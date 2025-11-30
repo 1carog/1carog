@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá! Eu sou Ícaro Barbosa. 👋
 
 <!--
 **1carog/1carog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
